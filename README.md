@@ -18,3 +18,11 @@ CODIFICACIÓN (API):
 ![image](https://user-images.githubusercontent.com/84081208/216187859-acab6caf-c6ea-4e7a-9395-73351a0f00e4.png)
 ![image](https://user-images.githubusercontent.com/84081208/216187919-a9e4b98f-d6da-4b70-ade5-9985d57ff245.png)
 ![image](https://user-images.githubusercontent.com/84081208/216188026-ad222284-2336-4258-932b-9454e653d2fa.png)
+
+LOCAL STORAGE:
+![image](https://user-images.githubusercontent.com/84081208/216188601-16573ad8-851b-4004-9679-7dc8b1a4a33f.png)
+
+DB SERVICE:
+![image](https://user-images.githubusercontent.com/84081208/216189229-415d12ea-c5ae-4595-b3ec-5df9763e3a10.png)
+
+
